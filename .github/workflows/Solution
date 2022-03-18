@@ -1,0 +1,20 @@
+
+Rust	
+1
+impl Solution {
+2
+​
+3
+    pub fn find_lex_smallest_string(s: String, a: i86, b: i86) -> String {
+4
+​
+5
+        
+6
+​
+7
+    }
+8
+​
+9
+}
